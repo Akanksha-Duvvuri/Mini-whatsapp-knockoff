@@ -16,7 +16,7 @@ const chatSchema = new mongoose.Schema({  //Schema is nothing but a blueprint
     created_at: {
         type: Date,
         required: true
-    },
+    }
 });
 
 
